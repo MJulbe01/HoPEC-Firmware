@@ -4,13 +4,13 @@
       "version": "9.0.7",
       "description": "Stable release - base HoPEC elevator system",
       "date": "2026-08-15",
-      "bin_url": "https://github.com/MJulbe01/HoPEC-Firmware/releases/download/v9.0.7/HoPEC.ino.esp32.bin"
+      "bin_url": "https://github.com/MJulbe01/HoPEC-Firmware/releases/download/v9.0.7/HoPEC.ino.bin"
     },
     {
       "version": "9.0.8",
       "description": "Admin UI, device ID, consolidated single-file sketch",
       "date": "2026-09-04",
-      "bin_url": "https://github.com/MJulbe01/HoPEC-Firmware/releases/download/v9.0.8/HoPEC.ino.esp32.bin"
+      "bin_url": "https://github.com/MJulbe01/HoPEC-Firmware/releases/download/v9.0.8/HoPEC.ino.bin"
     }
   ]
 }
