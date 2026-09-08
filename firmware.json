@@ -1,8 +1,8 @@
 {
   "firmwares": [
     {
-      "version": "9.0.10",
-      "description": "Modern web UI redesign, LED flash fix, WiFi status icon",
+      "version": "9.0.11",
+      "description": "Admin web UI, configurable settings, refined LCD display",
       "date": "2026-09-07",
       "bin_url": "https://raw.githubusercontent.com/MJulbe01/HoPEC-Firmware/main/HoPEC.ino.bin"
     }
