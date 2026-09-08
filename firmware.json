@@ -2,13 +2,7 @@
   "firmwares": [
     {
       "version": "9.0.9",
-      "description": "Admin web UI, configurable settings, OTA test build",
-      "date": "2026-09-07",
-      "bin_url": "https://raw.githubusercontent.com/MJulbe01/HoPEC-Firmware/main/HoPEC.ino.bin"
-    },
-    {
-      "version": "9.0.8",
-      "description": "Admin UI, device ID, consolidated single-file sketch",
+      "description": "Admin web UI, configurable settings, OTA firmware manager",
       "date": "2026-09-07",
       "bin_url": "https://raw.githubusercontent.com/MJulbe01/HoPEC-Firmware/main/HoPEC.ino.bin"
     }
