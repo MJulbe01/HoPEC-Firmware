@@ -4,19 +4,19 @@
       "version": "9.0.11",
       "description": "Refined LCD display, separate label/status updates",
       "date": "2026-09-07",
-      "bin_url": "https://raw.githubusercontent.com/MJulbe01/HoPEC-Firmware/main/HoPEC.ino.bin"
+      "bin_url": "https://raw.githubusercontent.com/MJulbe01/HoPEC-Firmware/main/HoPEC-v9.0.11.bin"
     },
     {
       "version": "9.0.10",
       "description": "Modern web UI, system info page, manual update check",
       "date": "2026-09-07",
-      "bin_url": "https://raw.githubusercontent.com/MJulbe01/HoPEC-Firmware/main/HoPEC.ino.bin"
+      "bin_url": "https://raw.githubusercontent.com/MJulbe01/HoPEC-Firmware/main/HoPEC-v9.0.10.bin"
     },
     {
       "version": "9.0.9",
       "description": "Admin web UI, configurable settings, OTA firmware manager",
       "date": "2026-09-07",
-      "bin_url": "https://raw.githubusercontent.com/MJulbe01/HoPEC-Firmware/main/HoPEC.ino.bin"
+      "bin_url": "https://raw.githubusercontent.com/MJulbe01/HoPEC-Firmware/main/HoPEC-v9.0.9.bin"
     }
   ]
 }
