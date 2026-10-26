@@ -1,6 +1,12 @@
 {
   "firmwares": [
     {
+      "version": "9.1.1",
+      "description": "OTA test release: comments and minor adjustments",
+      "date": "2026-10-26",
+      "bin_url": "https://raw.githubusercontent.com/MJulbe01/HoPEC-Firmware/main/HoPEC-v9.1.1.bin"
+    },
+    {
       "version": "9.1.0",
       "description": "Release: Admin web UI, OTA manager, configurable settings",
       "date": "2026-09-07",
